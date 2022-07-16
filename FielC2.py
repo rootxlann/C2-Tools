@@ -11,7 +11,7 @@ import urllib
 import json
 
 prot = (random.randint(9,14))
-sys.stdout.write("\x1b]2;[-] FielC2 | Online User : [{}] | Running Attack [5] | Bot Connected [89] | Admin : [Yofiel] | Username : admin\x07".format (prot))
+sys.stdout.write("\x1b]2;[-] FielC2 | Online User : [{}] | Running Attack [5] | Bot Connected [89] | Admin : [Westia] | Username : admin\x07".format (prot))
 
 os.system("clear")
 print("""\033[93m
@@ -27,7 +27,7 @@ print("""\033[93m
                       ███ ░███                    
                      ░░██████                     
                       ░░░░░░  
-             \033[93m>> \033[96mFielC2 Private Tools By Yofiel \033[93m<< 
+             \033[93m>> \033[96mFielC2 Private Tools By Westia \033[93m<< 
             \033[97m
    ███                                                                                
   █   █
@@ -41,7 +41,7 @@ print("""\033[93m
 """)
 username = str(input("\033[33m[ViperC2] \033[93mUsername:"))
 password = str(input("\033[33m[ViperC2] \033[93mPassword:"))
-if password == "yofiel" and username == "yofiel":
+if password == "westia" and username == "westia":
     print ("Logged in as owner")
     time.sleep(2)
 
@@ -70,7 +70,7 @@ print("Connecting To Server [\033[97m•\033[92m]")
 time.sleep(0.9)
 
 
-nicknm = "Yofiel"
+nicknm = "Westia"
 
 mt = """\033[96mService under \033[0;93mmaintance"""
 
